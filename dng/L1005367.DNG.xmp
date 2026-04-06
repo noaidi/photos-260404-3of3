@@ -16,17 +16,17 @@
    exif:GPSAltitude="0/10"
    xmpMM:DerivedFrom="L1005367.DNG"
    xmp:Rating="1"
-   darktable:import_timestamp="63910895206144740"
-   darktable:change_timestamp="63910895732566203"
+   darktable:import_timestamp="63911054767796403"
+   darktable:change_timestamp="63911054794798526"
    darktable:export_timestamp="-1"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1"
-   darktable:history_end="14"
+   darktable:history_end="16"
    darktable:iop_order_version="4"
    darktable:history_basic_hash="gz01eJzL2v1iqvDtL3s2fwj9KH1SaBIAVq8Jsg=="
-   darktable:history_current_hash="gz01eJy7L6nEUDjTPbJ71xrWHfV8jwE2BAbj">
+   darktable:history_current_hash="gz01eJwrDjuja/vj46kIsaUnPr7Y0wIAS1sJpw==">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -186,6 +186,28 @@
       darktable:multi_priority="0"
       darktable:blendop_version="14"
       darktable:blendop_params="gz11eJxjYIAACQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAGpyHQU="/>
+     <rdf:li
+      darktable:num="14"
+      darktable:operation="monochrome"
+      darktable:enabled="1"
+      darktable:modversion="2"
+      darktable:params="gz02eJxjYIADBxABAAFQAEE="
+      darktable:multi_name="neutral"
+      darktable:multi_name_hand_edited="0"
+      darktable:multi_priority="0"
+      darktable:blendop_version="14"
+      darktable:blendop_params="gz10eJxjYGBgYAJiCQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAG2yHQc="/>
+     <rdf:li
+      darktable:num="15"
+      darktable:operation="monochrome"
+      darktable:enabled="1"
+      darktable:modversion="2"
+      darktable:params="gz01eJzL7lTce/uLuQMDA4M9EDMAADSPBFg="
+      darktable:multi_name=""
+      darktable:multi_name_hand_edited="0"
+      darktable:multi_priority="0"
+      darktable:blendop_version="14"
+      darktable:blendop_params="gz10eJxjYGBgYAJiCQYYOOHEgAZY0QWAgBGLGANDgz0Ej1Q+dcF/IADRAG2yHQc="/>
     </rdf:Seq>
    </darktable:history>
    <dc:subject>
